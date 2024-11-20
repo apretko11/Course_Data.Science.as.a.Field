@@ -1,0 +1,1 @@
+Course submissions for "Data Science as a Field" as part of the Masters in Data Science at CU Boulder. Note that these are meant to be introductory exercises and are some of my first entries into coding, so please bear that in mind.
